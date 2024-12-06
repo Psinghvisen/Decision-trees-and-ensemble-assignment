@@ -9,6 +9,8 @@ https://colab.research.google.com/drive/1JKyjWTSfYlzu-hrM5uB_gV4Yw9bHt60k?usp=sh
 
 3)adaboost algorithm from scratch
 
+https://colab.research.google.com/drive/1b6ooDhR-_2FiGFwlXp7T6gqbSFxYPJJp?usp=sharing
+
 4)decision trees from scratch
 
 a)GBM classifier technique XGBoost, Catboost, LightGBM, randomforest, adaboost, decision tree classifier:
