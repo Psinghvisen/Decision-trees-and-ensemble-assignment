@@ -13,6 +13,8 @@ https://colab.research.google.com/drive/1b6ooDhR-_2FiGFwlXp7T6gqbSFxYPJJp?usp=sh
 
 4)decision trees from scratch
 
+https://colab.research.google.com/drive/1fuVMaAzHHMCCwdUrL9vAaiY0tA4wDbe5?usp=sharing
+
 a)GBM classifier technique XGBoost, Catboost, LightGBM, randomforest, adaboost, decision tree classifier:
 
 b)Gradient boost regression techniques XGBoost, Catboost, LightGBM
