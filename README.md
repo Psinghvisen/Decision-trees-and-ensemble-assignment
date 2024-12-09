@@ -24,3 +24,5 @@ b)Gradient boost regression techniques XGBoost, Catboost, LightGBM
 https://colab.research.google.com/drive/1nCONVdPum9en4yoCdCMIPE5RJhVXKH1g?usp=sharing
 
 c)Gradient boost ranking techniques XGBoost, Catboost, LightGBM
+
+https://colab.research.google.com/drive/13z6fn6n9ul3m8784a31mT3DS7d7qe0qZ?usp=sharing
