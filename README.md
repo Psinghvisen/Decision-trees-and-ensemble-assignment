@@ -17,6 +17,8 @@ https://colab.research.google.com/drive/1fuVMaAzHHMCCwdUrL9vAaiY0tA4wDbe5?usp=sh
 
 a)GBM classifier technique XGBoost, Catboost, LightGBM, randomforest, adaboost, decision tree classifier:
 
+https://colab.research.google.com/drive/10DApJBW03wFiv6_0Nau2Wgj5cxLTeHnG?usp=sharing
+
 b)Gradient boost regression techniques XGBoost, Catboost, LightGBM
 
 c)Gradient boost ranking techniques XGBoost, Catboost, LightGBM
