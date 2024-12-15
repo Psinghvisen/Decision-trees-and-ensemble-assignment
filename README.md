@@ -29,6 +29,8 @@ https://colab.research.google.com/drive/1fuVMaAzHHMCCwdUrL9vAaiY0tA4wDbe5?usp=sh
 
 Video description link:
 
+https://youtu.be/HBoiBJIKXIE
+
 a)GBM classifier technique XGBoost, Catboost, LightGBM, randomforest, adaboost, decision tree classifier:
 
 https://colab.research.google.com/drive/10DApJBW03wFiv6_0Nau2Wgj5cxLTeHnG?usp=sharing
